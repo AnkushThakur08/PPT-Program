@@ -70,7 +70,7 @@ while (result !== null) {
   result = result.next;
 }
 
-console.log(output); /*Output: [0]  */
+console.log(output); /* [0]  */
 
 // Example 3: l1 = [9, 9, 9, 9, 9, 9, 9], l2 = [9, 9, 9, 9]
 l1 = createLinkedList([9, 9, 9, 9, 9, 9, 9]);
